@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tan2
 =======
 Tan1
 >>>>>>> master
+=======
+Tan
+>>>>>>> parent of 440c0bf... Sua chu Tan1
