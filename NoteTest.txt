@@ -1,2 +1,18 @@
+<<<<<<< HEAD
 ádlan
 lan
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Tan2
+=======
+Tan1
+>>>>>>> master
+=======
+Tan
+>>>>>>> parent of 440c0bf... Sua chu Tan1
+=======
+Tan
+>>>>>>> parent of 2c8b32f... Sua chu Tan2
+>>>>>>> origin/Tan
